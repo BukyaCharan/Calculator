@@ -237,7 +237,8 @@ public class Calculator implements ActionListener
 		  if(e.getSource()==b17)  
 		  {  
 		   tf.setText("");  
-		  }  
+		  }   
+
    }  
 	public static void main(String[] args)
 	{
