@@ -1,5 +1,4 @@
-package cseA;
-
+package cseA;
 import java.awt.Button;
 import java.awt.FlowLayout;
 import java.awt.Frame;
